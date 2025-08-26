@@ -10,4 +10,3 @@ Button1 = tk.Button(root, text="Tombol Muncul", font=("Times New Roman",20,"bold
 Button1.pack()
 
 root.mainloop() # biar jendela tetap terbuka
->>>>>>> 7c4c74515bc27dbd7c7dd5ba4cdd337023ca075d
